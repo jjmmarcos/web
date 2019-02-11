@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<rss  version="2.0">
+	<channel>
+	<title>Lista de series</title>
+    <link>https://jjmmarcos.github.io/web/web</link>
+    <description>Información sobre series</description> 
+
+	<item>
+		<title>Peaky Blinders</title> 
+		<link>https://jjmmarcos.github.io/web/web/pagina1.html</link> 
+		<description>Peaky Blinders es una serie de televisión británica de drama histórico, creada por Steven Knight y emitida por el canal BBC.</description> 
+	</item>
+
+	<item>
+		<title>Sons of Anarchy</title> 
+		<link>https://jjmmarcos.github.io/web/web/pagina2.html</link> 
+		<description>Sons of Anarchy es una serie de televisión estadounidense creada por Kurt Sutter sobre la vida en un club de moteros.
+		</description> 
+	</item>
+
+
+	<item>
+		<title>Rick Y Morty</title> 
+		<link>https://jjmmarcos.github.io/web/web/pagina4.html</link> 
+		<description>Rick y Morty es una serie de televisión estadounidense de animación para adultos creada por Justin Roiland y Dan Harmon para Adult Swim.</description> 
+	</item>
+
+
+	<item>
+	<title>Otras series</title> 
+		<link>https://jjmmarcos.github.io/web/web/pagina3.html</link> 
+		<description>Contenido sobre diversas series
+		</description> 
+	</item>
+</channel>
+</rss>
